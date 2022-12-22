@@ -1,1 +1,1 @@
-# vue-alliance-3
+# https://nodarchik.github.io/vue-alliance-3/
